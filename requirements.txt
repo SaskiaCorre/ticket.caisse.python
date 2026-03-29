@@ -1,0 +1,2 @@
+# L'application n'utilise que des librairies standard, 
+# aucun package externe n'est requis
